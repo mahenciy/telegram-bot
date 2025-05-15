@@ -1,1 +1,2 @@
-.gitignore → Python
+Just Read Me.
+Enough
