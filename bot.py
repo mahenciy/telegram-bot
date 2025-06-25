@@ -3,7 +3,6 @@ import random
 import datetime
 import requests
 
-# === ТВОЙ ТОКЕН БОТА СЮДА ===
 TOKEN = "7667501486:AAF8gkKTV068uZEfiX18dqDxLTr7vGFqzzQ"
 
 # 🎱 Магические ответы
